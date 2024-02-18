@@ -19,7 +19,7 @@ Step 5: Then we select Specify template.<br>
       2. Upload a template file.<br>
 <i><b>Here we select Template is ready.</b></i><br><br>
 Step 6: Click on choice file.<br><br>
-Step 7: Then select your yml file.<br><br>
+Step 7: Then select your yml file.<br>
 In this file, we just checked our CloudFormation.<br>
 and in this file, I write code.<br>
 
@@ -37,7 +37,7 @@ Resources:
 ```
 
 Step 8: Open a terminal.<br><br>
-Step 9: Create a new file and paste this code there.<br><br>
+Step 9: Create a new file and paste this code there.<br>
 To create a new file in Windows, use the "Start notepad yourfilename.yml" command.<br>
 **Note**: Your extension must be. yml<br><br>
 Step 10: Then save that file and write ":wq"<br><br>
