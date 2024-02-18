@@ -38,8 +38,8 @@ Resources:
 
 Step 8: Open a terminal.<br><br>
 Step 9: Create a new file and paste this code there.<br><br>
-To create a new file in Windows, use the "Start notepad yourfilename.yml" command.<br><br><br>
-Note: Your extension must be. yml<br><br><br>
+To create a new file in Windows, use the "Start notepad yourfilename.yml" command.<br>
+**Note**: Your extension must be. yml<br><br>
 Step 10: Then save that file and write ":wq"<br><br>
 Step 11: Then click on "View in Designer."<br><br>
 Step 12: Click on Next. <br><br>
@@ -60,8 +60,8 @@ Step 23: Now we open EC2 (go to the search bar and type).<br><br>
 Step 24: We can check if our instance is running.<br><br>
 Step 25: Then in Cloud Formation -> Stacks -> Your Stack, we can see some lists like Stack info, Events, Resources, Output, Parameters, templates, and Change sets.<br><br>
 Step 26: So that in Template we can see our template we implemented in our instance<br><br>
-Step 27: If you want to update the template, just click Update and change your file. <br><br><br>
-Note: We use other code in the yml file. <br><br>
+Step 27: If you want to update the template, just click Update and change your file. <br>
+**Note**: We use other code in the yml file. <br><br>
 Step 28: Click on choice file<br><br>
 Step 29: Then select your yml file. <br><br>
 In this file, we just checked our CloudFormation. <br>
