@@ -5,7 +5,6 @@
 
 Following the steps you should follow
 
-
 Step 1: Search Cloud Formation <br><br>
 Step 2: Click on Create Stack.<br><br>
 Step 3: We can see Prereuisite - prepare template.<br><br>
