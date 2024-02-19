@@ -1,4 +1,4 @@
-# AWS_Use-Cloud-Formation-to-Launch-an-Amazon-EC2-Web-Server
+# AWS_Use-Cloud-Formation-to-Launch-EC2-Web-Server
 
 **Use Cloud Formation to Launch an Amazon EC2 Web Server**
 
