@@ -25,7 +25,6 @@ and in this file, I write code.<br>
 ## Example Code:
 
 ```
----
 Resources:
   MyInstance:
     Type: AWS::EC2::Instance
@@ -69,7 +68,6 @@ and in this file, I write code.<br>
 ## Full Code:
 
 ```
----
 Parameters:
   SecurityGroupDescription:
     Description: Security Group Description
